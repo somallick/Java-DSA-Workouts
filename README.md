@@ -23,3 +23,6 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 ## Searching
 1. https://leetcode.com/problems/binary-search
 2. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+3. https://leetcode.com/problems/peak-index-in-a-mountain-array
+4. https://leetcode.com/problems/search-in-rotated-sorted-array
+5. 
