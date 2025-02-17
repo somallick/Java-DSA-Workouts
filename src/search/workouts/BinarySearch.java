@@ -1,4 +1,4 @@
-package src.searchsort.workouts;
+package src.search.workouts;
 
 //https://leetcode.com/problems/binary-search/
 public class BinarySearch {

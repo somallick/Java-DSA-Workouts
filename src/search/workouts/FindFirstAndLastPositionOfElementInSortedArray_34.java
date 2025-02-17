@@ -1,4 +1,4 @@
-package src.searchsort.workouts;
+package src.search.workouts;
 
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 public class FindFirstAndLastPositionOfElementInSortedArray_34 {

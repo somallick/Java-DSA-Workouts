@@ -1,4 +1,4 @@
-package src.searchsort.workouts;
+package src.search.workouts;
 
 //https://leetcode.com/problems/peak-index-in-a-mountain-array
 public class PeakIndexInAMountainArray_852 {
