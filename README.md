@@ -44,3 +44,8 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 4. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii TODO
 5. https://leetcode.com/problems/remove-all-occurrences-of-a-substring
 6. https://leetcode.com/problems/palindromic-substrings
+7. https://leetcode.com/problems/decode-the-message
+8. https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage TODO
+9. https://leetcode.com/problems/custom-sort-string
+10. https://leetcode.com/problems/number-of-laser-beams-in-a-bank TODO
+11. https://leetcode.com/problems/find-and-replace-pattern
