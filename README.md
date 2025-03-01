@@ -1,4 +1,4 @@
-# Java-DSA-Workouts
+# Java-DSA-Workouts 
 Engage in coding workouts with this repository, featuring a variety of Data Structures and Algorithms problems solved in Java.
 
 ## Arrays
@@ -49,3 +49,18 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 9. https://leetcode.com/problems/custom-sort-string
 10. https://leetcode.com/problems/number-of-laser-beams-in-a-bank TODO
 11. https://leetcode.com/problems/find-and-replace-pattern
+
+## Basic Maths
+1. https://leetcode.com/problems/count-primes
+2. https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
+3. https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1
+4. https://leetcode.com/problems/super-pow
+
+
+## Assignments 
+### Arrays
+### Searching
+### Char & String
+1. https://leetcode.com/problems/valid-anagram
+2. https://leetcode.com/problems/reverse-only-letter TODO
+3. https://leetcode.com/problems/longest-common-prefix TODO 
