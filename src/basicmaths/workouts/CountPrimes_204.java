@@ -9,16 +9,14 @@ public class CountPrimes_204 {
     public int countPrimes_sol1(int n) {
         int count = 0;
         for (int i = 2; i < n; i++) {
-            if (isPrime(i))
-                count++;
+            if (isPrime(i)) count++;
         }
         return count;
     }
 
     public boolean isPrime(int n) {
         for (int i = 2; i <= Math.sqrt(n); i++) {
-            if (n % i == 0)
-                return false;
+            if (n % i == 0) return false;
         }
         return true;
     }
@@ -28,12 +26,12 @@ public class CountPrimes_204 {
         boolean[] primeTable = new boolean[n + 1]; // 0->n
         Arrays.fill(primeTable, true); // marks all true assume all prime
         primeTable[0] = false;
-        if (n>0) primeTable[1] = false;
+        if (n > 0) primeTable[1] = false;
         int primeCount = 0;
         for (int i = 2; i < n; i++) {
             if (primeTable[i]) {
                 primeCount++;
-                for (int j = i * 2; j <= n; j=j+i) // multiple of i
+                for (int j = i * 2; j <= n; j = j + i) // multiple of i
                     primeTable[j] = false; // multiple of i are not prime
             }
         }
@@ -45,18 +43,17 @@ public class CountPrimes_204 {
         boolean[] primeTable = new boolean[n + 1]; // 0->n
         Arrays.fill(primeTable, true); // marks all true assume all prime
         primeTable[0] = false;
-        if (n>0) primeTable[1] = false;
+        if (n > 0) primeTable[1] = false;
         int primeCount = 0;
-        for (int i = 2; i < Math.sqrt(n); i++) {
+        for (int i = 2; i <= Math.sqrt(n); i++) {
             if (primeTable[i]) {
                 primeCount++;
-                for (int j = i * i; j <= n; j=j+i) // multiple of i
+                for (int j = i * i; j <= n; j = j + i) // multiple of i
                     primeTable[j] = false; // multiple of i are not prime
             }
         }
-        for(int i = (int)Math.sqrt(n)+1; i<=n; i++) // iterating on the index which are greater than sqrt(n) to count those primes
-            if (primeTable[i])
-                primeCount++;
+        for (int i = (int) Math.sqrt(n) + 1; i <= n; i++) // iterating on the index which are greater than sqrt(n) to count those primes
+            if (primeTable[i]) primeCount++;
         return primeCount;
     }
 }

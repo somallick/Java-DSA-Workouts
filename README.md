@@ -55,6 +55,7 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 2. https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 3. https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1
 4. https://leetcode.com/problems/super-pow
+5. https://www.geeksforgeeks.org/problems/product-of-primes5328/1
 
 
 ## Assignments 
