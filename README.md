@@ -63,5 +63,5 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 ### Searching
 ### Char & String
 1. https://leetcode.com/problems/valid-anagram
-2. https://leetcode.com/problems/reverse-only-letter TODO
-3. https://leetcode.com/problems/longest-common-prefix TODO 
+2. https://leetcode.com/problems/reverse-only-letters
+3. https://leetcode.com/problems/longest-common-prefix 

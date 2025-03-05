@@ -1,5 +1,7 @@
 package src.arrays.workouts;
 
+import src.utility.PrintArray;
+
 public class TransposeOfMatrix {
     public static void matrixTranspose(int[][] arr, int rowSize, int columnSize){
         for(int i =0; i<rowSize; i++) {
