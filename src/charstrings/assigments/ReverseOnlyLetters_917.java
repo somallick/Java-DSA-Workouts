@@ -18,10 +18,8 @@ public class ReverseOnlyLetters_917 {
                 end--;
             }
         }
-        StringBuilder sb = new StringBuilder();
-        for (char a : ar) {
-            sb.append(a);
-        }
-        return sb.toString();
+//        StringBuilder sb = new StringBuilder();
+//        return sb.append(ar).toString();
+        return String.valueOf(ar);
     }
 }
