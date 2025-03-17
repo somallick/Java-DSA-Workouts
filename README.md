@@ -57,6 +57,11 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 4. https://leetcode.com/problems/super-pow
 5. https://www.geeksforgeeks.org/problems/product-of-primes5328/1
 
+## Recursion
+1. https://www.geeksforgeeks.org/print-subsequences-string
+2. https://leetcode.com/problems/house-robber
+3. https://leetcode.com/problems/coin-change
+
 
 ## Assignments 
 ### Arrays
@@ -66,4 +71,14 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 2. https://leetcode.com/problems/reverse-only-letters
 3. https://leetcode.com/problems/longest-common-prefix
 4. https://leetcode.com/problems/reverse-vowels-of-a-string
-5. 
+
+### Recursion
+1. https://www.geeksforgeeks.org/problems/last-index-of-a-character-in-the-string4516/1
+2. https://www.geeksforgeeks.org/problems/reverse-a-string/1
+3. https://leetcode.com/problems/add-strings TODO
+4. https://leetcode.com/problems/best-time-to-buy-and-sell-stock TODO
+5. https://leetcode.com/problems/wildcard-matching TODO
+6. https://leetcode.com/problems/perfect-squares TODO
+7. https://leetcode.com/problems/minimum-cost-for-tickets TODO
+8. https://leetcode.com/problems/number-of-dice-rolls-with-target-sum TODO
+9. https://leetcode.com/problems/remove-all-occurrences-of-a-substring TODO
