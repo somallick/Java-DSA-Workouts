@@ -150,16 +150,14 @@ public class SinglyLinkedListPractise {
         traverseList(head);
         head = insertAtTail(40, head, tail);
         traverseList(head);
-//        head = insertAtPosition(50, 4, head);
-//        traverseList(head);
-//        head = insertAtPosition(40, 4, head);
-//        traverseList(head);
-//        int searchValue = 30;
-//        System.out.println(searchInAList(searchValue, head));
-//        head = deleteAtPosition(3, head);
-//        traverseList(head);
-//        head = deleteValueFromLL(40, head);
-//        traverseList(head);
+        head = insertAtPosition(50, 4, head);
+        traverseList(head);
+        int searchValue = 30;
+        System.out.println(searchInAList(searchValue, head));
+        head = deleteAtPosition(3, head);
+        traverseList(head);
+        head = deleteValueFromLL(40, head);
+        traverseList(head);
 
     }
 }
