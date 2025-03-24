@@ -62,6 +62,16 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 2. https://leetcode.com/problems/house-robber
 3. https://leetcode.com/problems/coin-change
 
+## Linked List
+1. https://leetcode.com/problems/reverse-linked-list
+2. https://leetcode.com/problems/middle-of-the-linked-list
+3. https://leetcode.com/problems/palindrome-linked-list
+4. https://leetcode.com/problems/linked-list-cycle
+5. https://leetcode.com/problems/remove-duplicates-from-sorted-list
+6. https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
+7. https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0
+8. https://leetcode.com/problems/linked-list-cycle-ii TODO
+9. https://leetcode.com/problems/reverse-nodes-in-k-group
 
 ## Assignments 
 ### Arrays
@@ -82,3 +92,13 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 7. https://leetcode.com/problems/minimum-cost-for-tickets TODO
 8. https://leetcode.com/problems/number-of-dice-rolls-with-target-sum TODO
 9. https://leetcode.com/problems/remove-all-occurrences-of-a-substring TODO
+
+### Linked List
+1. https://leetcode.com/problems/rotate-list TODO
+2. https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1 TODO
+3. https://leetcode.com/problems/merge-two-sorted-lists TODO
+4. https://leetcode.com/problems/intersection-of-two-linked-lists TODO
+5. https://leetcode.com/problems/sort-list TODO
+6. https://www.geeksforgeeks.org/problems/sort-a-linked-list/1 TODO
+7. https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1 TODO
+
