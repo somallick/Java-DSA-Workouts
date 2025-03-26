@@ -14,6 +14,7 @@ public class BinarySearch {
         }
         return -1;
     }
+
     public int search(int[] nums, int start, int end, int target) {
         int mid;
         while (start <= end) {

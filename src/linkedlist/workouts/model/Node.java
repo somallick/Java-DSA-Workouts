@@ -6,13 +6,12 @@ public class Node {
     public Node next;
 
     // Constructor to initialize the node with data
-    public Node(int data)
-    {
+    public Node(int data) {
         this.data = data;
         this.next = null;
     }
-    public Node(int data, Node nextNode)
-    {
+
+    public Node(int data, Node nextNode) {
         this.data = data;
         this.next = nextNode;
     }

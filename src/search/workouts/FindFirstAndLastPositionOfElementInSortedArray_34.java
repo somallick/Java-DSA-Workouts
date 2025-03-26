@@ -2,10 +2,6 @@ package src.search.workouts;
 
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 public class FindFirstAndLastPositionOfElementInSortedArray_34 {
-    public int[] searchRange(int[] nums, int target) {
-        return new int[]{findFirstOccurrence(nums, target), findLastOccurrence(nums, target)};
-    }
-
     public static int findFirstOccurrence(int[] nums, int target) {
         int start = 0;
         int end = nums.length - 1;
@@ -38,6 +34,10 @@ public class FindFirstAndLastPositionOfElementInSortedArray_34 {
                 end = mid - 1;
         }
         return occurrenceIndex;
+    }
+
+    public int[] searchRange(int[] nums, int target) {
+        return new int[]{findFirstOccurrence(nums, target), findLastOccurrence(nums, target)};
     }
 
 }

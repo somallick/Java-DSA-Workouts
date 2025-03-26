@@ -2,16 +2,6 @@ package src.search.workouts;
 
 //https://leetcode.com/problems/search-in-rotated-sorted-array
 public class SearchInRotatedSortedArray_33 {
-    public int search(int[] nums, int target) {
-        int pivotIndex = findPivotIndex(nums); // O(log n)
-        int start = 0, n = nums.length;
-        int end = n - 1;
-        if (target >= nums[start] && target <= nums[pivotIndex])
-            return binarySearch(nums, start, pivotIndex, target); // first segment with pivot element //O(log n)
-        else
-            return binarySearch(nums, pivotIndex + 1, end, target); // second segment without pivot element //O(log n)
-    }
-
     public static int findPivotIndex(int[] nums) {
         int start = 0, n = nums.length;
         int end = n - 1;
@@ -40,5 +30,15 @@ public class SearchInRotatedSortedArray_33 {
             else end = mid - 1;
         }
         return -1;
+    }
+
+    public int search(int[] nums, int target) {
+        int pivotIndex = findPivotIndex(nums); // O(log n)
+        int start = 0, n = nums.length;
+        int end = n - 1;
+        if (target >= nums[start] && target <= nums[pivotIndex])
+            return binarySearch(nums, start, pivotIndex, target); // first segment with pivot element //O(log n)
+        else
+            return binarySearch(nums, pivotIndex + 1, end, target); // second segment without pivot element //O(log n)
     }
 }

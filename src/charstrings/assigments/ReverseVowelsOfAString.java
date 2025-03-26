@@ -34,7 +34,7 @@ public class ReverseVowelsOfAString {
                 start++;
             while (start < end && !vowels.contains(Character.toLowerCase(ar[end])))
                 end--;
-            if( start < end) {
+            if (start < end) {
                 char temp = ar[start];
                 ar[start] = ar[end];
                 ar[end] = temp;

@@ -7,13 +7,13 @@ public class PalindromeLinkedList_234 {
         int value = 0;
         int revValue = 0;
         int pow = 0;
-        while(head != null){
-            value = value*10 + head.val;
-            revValue = (head.val*(int)Math.pow(10,pow)) + revValue;
+        while (head != null) {
+            value = value * 10 + head.val;
+            revValue = (head.val * (int) Math.pow(10, pow)) + revValue;
             pow++;
             head = head.next;
         }
-        if(value == revValue) {
+        if (value == revValue) {
             return true;
         }
         return false;

@@ -7,20 +7,21 @@ public class ReverseLinkedList_206 {
         ListNode prev = null;
         return reverseList(prev, head);
     }
+
     public static ListNode reverseList(ListNode prev, ListNode curr) { // Recursive
-        if(curr == null)
+        if (curr == null)
             return prev;
         ListNode forward = curr.next;
         curr.next = prev;
         prev = curr;
-        curr=forward;
-        return reverseList(prev,curr);
+        curr = forward;
+        return reverseList(prev, curr);
     }
 
     public static ListNode reverseList(ListNode head) { // loop
         ListNode curr = head;
         ListNode prev = null;
-        while(curr!=null){
+        while (curr != null) {
             ListNode forward = curr.next;
             curr.next = prev;
             prev = curr;
@@ -30,7 +31,7 @@ public class ReverseLinkedList_206 {
     }
 
     public static void main(String[] args) {
-        ListNode head = new ListNode(10, new ListNode(20, new ListNode(30,new ListNode(40))));
+        ListNode head = new ListNode(10, new ListNode(20, new ListNode(30, new ListNode(40))));
         LLUtility.printLL(head);
         head = reverseList(head);
         LLUtility.printLL(head);

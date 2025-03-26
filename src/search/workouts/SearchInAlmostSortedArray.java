@@ -9,7 +9,7 @@ public class SearchInAlmostSortedArray {
         while (start <= end) {
             mid = start + ((end - start) / 2);
             if (nums[mid] == target) return mid;
-            else if (mid-1 >0 && nums[mid - 1] == target) return mid - 1;
+            else if (mid - 1 > 0 && nums[mid - 1] == target) return mid - 1;
             else if (mid + 1 < nums.length && nums[mid + 1] == target) return mid + 1;
             else if (target > nums[mid]) start = mid + 2;
             else end = mid - 2;

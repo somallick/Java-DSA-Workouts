@@ -1,7 +1,10 @@
-# Java-DSA-Workouts 
-Engage in coding workouts with this repository, featuring a variety of Data Structures and Algorithms problems solved in Java.
+# Java-DSA-Workouts
+
+Engage in coding workouts with this repository, featuring a variety of Data Structures and Algorithms problems solved in
+Java.
 
 ## Arrays
+
 1. https://leetcode.com/problems/add-to-array-form-of-integer
 2. https://www.geeksforgeeks.org/add-two-numbers-represented-by-two-arrays
 3. https://www.geeksforgeeks.org/reverse-an-array-in-java
@@ -22,6 +25,7 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 18. https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space TODO
 
 ## Searching
+
 1. https://leetcode.com/problems/binary-search
 2. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 3. https://leetcode.com/problems/peak-index-in-a-mountain-array
@@ -33,11 +37,13 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 9. https://www.geeksforgeeks.org/search-almost-sorted-array
 
 ## Sorting
+
 1. https://www.geeksforgeeks.org/problems/bubble-sort/1
 2. https://www.geeksforgeeks.org/problems/selection-sort/1
 3. https://www.geeksforgeeks.org/problems/insertion-sort/1
 
 ## Char & String
+
 1. https://leetcode.com/problems/valid-palindrome
 2. https://leetcode.com/problems/valid-palindrome-ii
 3. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
@@ -51,6 +57,7 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 11. https://leetcode.com/problems/find-and-replace-pattern
 
 ## Basic Maths
+
 1. https://leetcode.com/problems/count-primes
 2. https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 3. https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1
@@ -58,11 +65,13 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 5. https://www.geeksforgeeks.org/problems/product-of-primes5328/1
 
 ## Recursion
+
 1. https://www.geeksforgeeks.org/print-subsequences-string
 2. https://leetcode.com/problems/house-robber
 3. https://leetcode.com/problems/coin-change
 
 ## Linked List
+
 1. https://leetcode.com/problems/reverse-linked-list
 2. https://leetcode.com/problems/middle-of-the-linked-list
 3. https://leetcode.com/problems/palindrome-linked-list
@@ -73,16 +82,21 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 8. https://leetcode.com/problems/linked-list-cycle-ii TODO
 9. https://leetcode.com/problems/reverse-nodes-in-k-group
 
-## Assignments 
+## Assignments
+
 ### Arrays
+
 ### Searching
+
 ### Char & String
+
 1. https://leetcode.com/problems/valid-anagram
 2. https://leetcode.com/problems/reverse-only-letters
 3. https://leetcode.com/problems/longest-common-prefix
 4. https://leetcode.com/problems/reverse-vowels-of-a-string
 
 ### Recursion
+
 1. https://www.geeksforgeeks.org/problems/last-index-of-a-character-in-the-string4516/1
 2. https://www.geeksforgeeks.org/problems/reverse-a-string/1
 3. https://leetcode.com/problems/add-strings TODO
@@ -94,6 +108,7 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 9. https://leetcode.com/problems/remove-all-occurrences-of-a-substring TODO
 
 ### Linked List
+
 1. https://leetcode.com/problems/rotate-list TODO
 2. https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1 TODO
 3. https://leetcode.com/problems/merge-two-sorted-lists TODO

@@ -136,7 +136,7 @@ public class DoublyLinkedListPractise {
         if (temp == null)
             return head;
 
-        if(temp.next == null) // last position
+        if (temp.next == null) // last position
         {
             temp.prev.next = null;
             temp.prev = null;

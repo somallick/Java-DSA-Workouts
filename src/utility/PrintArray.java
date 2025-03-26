@@ -12,6 +12,7 @@ public class PrintArray {
             System.out.print(arr[i] + " ");
         System.out.println();
     }
+
     public static void printArray(int[][] arr) {
         for (int rowCell[] : arr) {
             for (int cellValue : rowCell) {
@@ -20,16 +21,19 @@ public class PrintArray {
             System.out.println();
         }
     }
+
     public static <T> void printArray(T[] arr) {
         for (T a : arr)
             System.out.print(a + " ");
         System.out.println();
     }
+
     public static <T> void printArray(T[] arr, int startIndex, int endIndex) {
         for (int i = startIndex; i <= endIndex; i++)
             System.out.print(arr[i] + " ");
         System.out.println();
     }
+
     public static <T> void printArray(T[][] arr) {
         for (T rowCell[] : arr) {
             for (T cellValue : rowCell) {

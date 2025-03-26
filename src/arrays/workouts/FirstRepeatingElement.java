@@ -7,16 +7,16 @@ import java.util.Map;
 public class FirstRepeatingElement {
     public static int firstRepeated(int[] arr) {
         Map<Integer, Integer> numMap = new LinkedHashMap<>(); // LinkedHashMap so that number in the array should be serialised manner
-        for (int num : arr){
-            if(numMap.containsKey(num))
-                numMap.put(num, numMap.get(num)+1);
+        for (int num : arr) {
+            if (numMap.containsKey(num))
+                numMap.put(num, numMap.get(num) + 1);
             else
-                numMap.put(num,1);
+                numMap.put(num, 1);
         }
         int index = 0;
-        for(Integer countPerNum : numMap.values()){
+        for (Integer countPerNum : numMap.values()) {
             index++;
-            if(countPerNum>1)
+            if (countPerNum > 1)
                 return index;
         }
         return -1;

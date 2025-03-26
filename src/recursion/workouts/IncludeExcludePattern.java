@@ -8,43 +8,44 @@ import java.util.List;
 public class IncludeExcludePattern {
     public static void allSubsequence(String str, int index, String output) {
         // base case
-        if (index == str.length()){
+        if (index == str.length()) {
             System.out.println(output);
             return;
         }
         char ch = str.charAt(index);
         // include case
-        allSubsequence(str, index+1, output+ch);
+        allSubsequence(str, index + 1, output + ch);
 
         //exclude case
-        allSubsequence(str, index+1, output);
+        allSubsequence(str, index + 1, output);
     }
+
     public static void allSubsequence(String str, int index, StringBuilder output) {
         // base case
-        if (index == str.length()){
+        if (index == str.length()) {
             System.out.println(output);
             return;
         }
         char ch = str.charAt(index);
         // include case
-        allSubsequence(str, index+1, new StringBuilder(output).append(ch)); // String builder is mutable
+        allSubsequence(str, index + 1, new StringBuilder(output).append(ch)); // String builder is mutable
 
         //exclude case
-        allSubsequence(str, index+1, new StringBuilder(output));
+        allSubsequence(str, index + 1, new StringBuilder(output));
     }
 
     public static void allSubsequence(String str, int index, String output, List<String> list) {
         // base case
-        if (index == str.length()){
+        if (index == str.length()) {
             list.add(output);
             return;
         }
         char ch = str.charAt(index);
         // include case
-        allSubsequence(str, index+1, output+ch, list);
+        allSubsequence(str, index + 1, output + ch, list);
 
         //exclude case
-        allSubsequence(str, index+1, output, list);
+        allSubsequence(str, index + 1, output, list);
     }
 
     public static void main(String[] args) {

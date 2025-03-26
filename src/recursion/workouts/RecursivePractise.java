@@ -49,7 +49,7 @@ public class RecursivePractise {
             return;
         if (ar[index] % 2 == 1)
             odds.add(ar[index]);
-        storeOddInList(ar,index + 1, odds);
+        storeOddInList(ar, index + 1, odds);
     }
 
     public static void main(String[] args) {

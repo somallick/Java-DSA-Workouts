@@ -1,6 +1,5 @@
 package src.linkedlist.workouts;
 
-import src.linkedlist.workouts.ListNode;
 import src.linkedlist.workouts.model.Node;
 
 public class LLUtility {
@@ -13,6 +12,7 @@ public class LLUtility {
         System.out.print("NULL");
         System.out.println();
     }
+
     public static void printLL(Node head) {
         Node temp = head;
         while (temp != null) {
@@ -22,6 +22,7 @@ public class LLUtility {
         System.out.print("NULL");
         System.out.println();
     }
+
     public static int getListLength(Node head) {
         int length = 0;
         Node temp = head;

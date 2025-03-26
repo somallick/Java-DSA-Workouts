@@ -11,7 +11,8 @@ public class PalindromicSubstrings_647 {
             int oddLengthPalindromeStringCount = extendAroundCenterForPalindromeCount(s, i, j);
 
             //For even length, center is two adjacent index
-            i = center; j = center + 1;
+            i = center;
+            j = center + 1;
             int evenLengthPalindromeStringCount = extendAroundCenterForPalindromeCount(s, i, j);
 
             totalCount = totalCount + oddLengthPalindromeStringCount + evenLengthPalindromeStringCount;

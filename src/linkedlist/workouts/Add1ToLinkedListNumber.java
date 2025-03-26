@@ -4,6 +4,18 @@ import src.linkedlist.workouts.model.Node;
 
 //https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0
 public class Add1ToLinkedListNumber {
+    public static Node reverseLL(Node head) {
+        Node prev = null;
+        Node curr = head;
+        while (curr != null) {
+            Node forward = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = forward;
+        }
+        return prev;
+    }
+
     public Node addOne(Node head) {
         // code here.
         head = reverseLL(head);
@@ -25,17 +37,5 @@ public class Add1ToLinkedListNumber {
         }
         head = reverseLL(head);
         return head;
-    }
-
-    public static Node reverseLL(Node head) {
-        Node prev = null;
-        Node curr = head;
-        while (curr != null) {
-            Node forward = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = forward;
-        }
-        return prev;
     }
 }

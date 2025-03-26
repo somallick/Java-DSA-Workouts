@@ -6,12 +6,12 @@ import java.util.Set;
 public class PrintCollection {
 
     public static <T> void printList(List<T> list) {
-        list.forEach(e-> System.out.print(e + " "));
+        list.forEach(e -> System.out.print(e + " "));
         System.out.println();
     }
 
     public static <T> void printSet(Set<T> set) {
-        set.forEach(e-> System.out.print(e + " "));
+        set.forEach(e -> System.out.print(e + " "));
         System.out.println();
     }
 }

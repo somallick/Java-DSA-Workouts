@@ -13,8 +13,8 @@ public class RotateList_61 {
             tail = temp;
             temp = temp.next;
         }
-        while(k>length)
-            k=k-length;
+        while (k > length)
+            k = k - length;
         if (k == length)
             return head;
         int t = 1;

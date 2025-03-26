@@ -1,6 +1,9 @@
 package src.charstrings.workouts;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 //https://leetcode.com/problems/find-and-replace-pattern
 public class FindAndReplacePattern_890 {
@@ -8,24 +11,24 @@ public class FindAndReplacePattern_890 {
     public static List<String> findAndReplacePattern(String[] words, String pattern) {
         List<String> finalPatternWords = new ArrayList<>();
         String normalisePattern = normaliseToSinglePattern(pattern);
-        for(int i=0; i< words.length; i++) {
+        for (int i = 0; i < words.length; i++) {
             String normaliseWord = normaliseToSinglePattern(words[i]);
-            if(normaliseWord.equals(normalisePattern))
+            if (normaliseWord.equals(normalisePattern))
                 finalPatternWords.add(words[i]);
         }
         return finalPatternWords;
     }
-    public static String normaliseToSinglePattern (String pattern) {
+
+    public static String normaliseToSinglePattern(String pattern) {
         Map<Character, Character> normaliser = new HashMap<>();
         StringBuilder normalisePattern = new StringBuilder();
         char charSeq = 'a';
-        for(int i=0; i<pattern.length(); i++){
+        for (int i = 0; i < pattern.length(); i++) {
             char pat = pattern.charAt(i);
-            if(normaliser.containsKey(pat)){
+            if (normaliser.containsKey(pat)) {
                 normalisePattern.append(normaliser.get(pat));
-            }
-            else{
-                normaliser.put(pat,charSeq);
+            } else {
+                normaliser.put(pat, charSeq);
                 normalisePattern.append(charSeq);
                 charSeq++;
             }
