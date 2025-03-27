@@ -111,7 +111,7 @@ Java.
 
 1. https://leetcode.com/problems/rotate-list TODO
 2. https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1 TODO
-3. https://leetcode.com/problems/merge-two-sorted-lists TODO
+3. https://leetcode.com/problems/merge-two-sorted-lists
 4. https://leetcode.com/problems/intersection-of-two-linked-lists TODO
 5. https://leetcode.com/problems/sort-list TODO
 6. https://www.geeksforgeeks.org/problems/sort-a-linked-list/1 TODO

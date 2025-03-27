@@ -101,6 +101,7 @@ public class SinglyLinkedListPractise {
 
         if (position == 1) {
             head = head.next;
+            temp.next = null;
             return head;
         }
         int p = 1;
@@ -125,6 +126,7 @@ public class SinglyLinkedListPractise {
 
         if (head.data == value) {
             head = head.next;
+            temp.next = null;
             return head;
         }
 

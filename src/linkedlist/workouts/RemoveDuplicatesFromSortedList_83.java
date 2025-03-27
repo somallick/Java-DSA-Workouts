@@ -20,19 +20,6 @@ public class RemoveDuplicatesFromSortedList_83 {
         return head;
     }
 
-    public static void main(String[] args) {
-        ListNode head = new ListNode(10,
-                new ListNode(10,
-                        new ListNode(10,
-                                new ListNode(20,
-                                        new ListNode(30,
-                                                new ListNode(30))))));
-        LLUtility.printLL(head);
-        head = deleteDuplicates_sol1(head);
-        LLUtility.printLL(head);
-
-    }
-
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null || head.next == null)
             return head;
@@ -47,5 +34,18 @@ public class RemoveDuplicatesFromSortedList_83 {
         }
         prev.next = null; // if prev.next is not null means rest are duplicates
         return head;
+    }
+
+    public static void main(String[] args) {
+        ListNode head = new ListNode(10,
+                new ListNode(10,
+                        new ListNode(10,
+                                new ListNode(20,
+                                        new ListNode(30,
+                                                new ListNode(30))))));
+        LLUtility.printLL(head);
+        head = deleteDuplicates_sol1(head);
+        LLUtility.printLL(head);
+
     }
 }
