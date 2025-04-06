@@ -82,6 +82,22 @@ Java.
 8. https://leetcode.com/problems/linked-list-cycle-ii TODO
 9. https://leetcode.com/problems/reverse-nodes-in-k-group
 
+## Stacks
+1. https://leetcode.com/problems/valid-parentheses
+2. https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1
+3. https://www.geeksforgeeks.org/next-smaller-element
+4. https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1
+5. https://leetcode.com/problems/largest-rectangle-in-histogram TODO
+6. https://leetcode.com/problems/min-stack TODO
+
+## Queue
+1. https://www.naukri.com/code360/problems/reverse-first-k-elements-of-queue_982771
+2. https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1
+3. https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+4. https://leetcode.com/problems/sliding-window-maximum
+5. https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
+6. https://leetcode.com/problems/gas-station
+
 ## Assignments
 
 ### Arrays
@@ -116,4 +132,13 @@ Java.
 5. https://leetcode.com/problems/sort-list TODO
 6. https://www.geeksforgeeks.org/problems/sort-a-linked-list/1 TODO
 7. https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1 TODO
+
+### Stacks
+
+### Queue
+1. https://leetcode.com/problems/implement-queue-using-stacks TODO
+2. https://leetcode.com/problems/implement-stack-using-queues TODO
+3. https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 TODO
+
+
 
