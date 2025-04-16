@@ -98,6 +98,20 @@ Java.
 5. https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
 6. https://leetcode.com/problems/gas-station
 
+## Binary Trees
+1. https://leetcode.com/problems/binary-tree-level-order-traversal
+2. https://leetcode.com/problems/maximum-depth-of-binary-tree
+3. https://leetcode.com/problems/diameter-of-binary-tree
+4. https://leetcode.com/problems/balanced-binary-tree
+5. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+6. https://leetcode.com/problems/path-sum
+7. https://leetcode.com/problems/path-sum-ii
+8. https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+9. https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+10. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+11. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+12. https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+
 ## Assignments
 
 ### Arrays
@@ -139,6 +153,14 @@ Java.
 1. https://leetcode.com/problems/implement-queue-using-stacks TODO
 2. https://leetcode.com/problems/implement-stack-using-queues TODO
 3. https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 TODO
+4. https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 TODO
+
+### Binary Trees
+1. https://leetcode.com/problems/binary-tree-right-side-view
+2. https://leetcode.com/problems/binary-tree-level-order-traversal-ii
+3. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+4. https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree TODO
+5. https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 TODO
 
 
 
