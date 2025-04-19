@@ -7,6 +7,8 @@ import java.util.Queue;
 
 //https://leetcode.com/problems/binary-tree-level-order-traversal
 public class BinaryTreeLevelOrderTraversal_102 {
+
+    //Using Queue (Iterative) – O(n) time and O(n) space
     public static List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> finalTreeList = new ArrayList<>();
         if (root == null)
@@ -31,5 +33,22 @@ public class BinaryTreeLevelOrderTraversal_102 {
             }
         }
         return finalTreeList;
+    }
+
+    //Using Recursion – O(n) time and O(n) space
+    public static void levelOrder(TreeNode root, int level, List<List<Integer>> finalTreeList) {
+        if (root == null)
+            return;
+        // here each internal list of result list represent levels
+        //Add a new level to the result if needed
+        if (finalTreeList.size() <= level)
+            finalTreeList.add(new ArrayList<>());
+
+        // Add current node's data to its corresponding level
+        finalTreeList.get(level).add(root.val);
+
+        // Recurring for left and right children
+        levelOrder(root.left, level + 1, finalTreeList);
+        levelOrder(root.right, level + 1, finalTreeList);
     }
 }
