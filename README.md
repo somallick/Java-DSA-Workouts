@@ -98,6 +98,34 @@ Java.
 5. https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
 6. https://leetcode.com/problems/gas-station
 
+## Binary Trees
+1. https://leetcode.com/problems/binary-tree-level-order-traversal
+2. https://leetcode.com/problems/maximum-depth-of-binary-tree
+3. https://leetcode.com/problems/diameter-of-binary-tree
+4. https://leetcode.com/problems/balanced-binary-tree
+5. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+6. https://leetcode.com/problems/path-sum
+7. https://leetcode.com/problems/path-sum-ii
+8. https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+9. https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+10. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+11. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+12. https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+13. https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1 TODO
+
+## Binary Search Tree
+1. https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1
+2. https://leetcode.com/problems/insert-into-a-binary-search-tree
+3. https://leetcode.com/problems/search-in-a-binary-search-tree
+4. https://leetcode.com/problems/delete-node-in-a-bst
+5. https://leetcode.com/problems/two-sum-iv-input-is-a-bst
+6. https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree
+7. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+8. https://leetcode.com/problems/kth-smallest-element-in-a-bst
+9. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+10. https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+11. https://leetcode.com/problems/maximum-sum-bst-in-binary-tree
+
 ## Assignments
 
 ### Arrays
@@ -132,6 +160,8 @@ Java.
 5. https://leetcode.com/problems/sort-list TODO
 6. https://www.geeksforgeeks.org/problems/sort-a-linked-list/1 TODO
 7. https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1 TODO
+8. https://leetcode.com/problems/odd-even-linked-list
+9. https://leetcode.com/problems/swapping-nodes-in-a-linked-list
 
 ### Stacks
 
@@ -139,6 +169,19 @@ Java.
 1. https://leetcode.com/problems/implement-queue-using-stacks TODO
 2. https://leetcode.com/problems/implement-stack-using-queues TODO
 3. https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 TODO
+4. https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 TODO
+
+### Binary Trees
+1. https://leetcode.com/problems/binary-tree-right-side-view
+2. https://leetcode.com/problems/binary-tree-level-order-traversal-ii
+3. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+4. https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree TODO
+5. https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 TODO
+6. https://leetcode.com/problems/flatten-binary-tree-to-linked-list TODO
+
+### Binary Search Trees
+1. https://leetcode.com/problems/validate-binary-search-tree
+2. https://www.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1 TODO
 
 
 
