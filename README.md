@@ -115,7 +115,7 @@ Java.
 6. https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree
 7. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 8. https://leetcode.com/problems/kth-smallest-element-in-a-bst
-9. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+9. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree (BST using inorder)
 10. https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
 11. https://leetcode.com/problems/maximum-sum-bst-in-binary-tree
 
@@ -190,16 +190,37 @@ Java.
 9. https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array TODO
 
 ### Binary Trees
-1. https://leetcode.com/problems/binary-tree-right-side-view
-2. https://leetcode.com/problems/binary-tree-level-order-traversal-ii
-3. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-4. https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree TODO
-5. https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 TODO
-6. https://leetcode.com/problems/flatten-binary-tree-to-linked-list TODO
+1. https://www.geeksforgeeks.org/problems/inorder-traversal/1 TODO (Morris Traversal)
+2. https://leetcode.com/problems/binary-tree-right-side-view
+3. https://leetcode.com/problems/binary-tree-level-order-traversal-ii
+4. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+5. https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree TODO
+6. https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 TODO
+7. https://leetcode.com/problems/flatten-binary-tree-to-linked-list TODO
+8. https://leetcode.com/problems/same-tree TODO
+9. https://leetcode.com/problems/symmetric-tree TODO
+10. https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1 TODO
+11. https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1 TODO
+12. https://leetcode.com/problems/path-sum-iii TODO (K-Sum Paths)
+13. https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1 TODO
+14. https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1 TODO
+15. https://www.geeksforgeeks.org/problems/burning-tree/1 TODO
+16. https://leetcode.com/problems/find-duplicate-subtrees TODO
 
 ### Binary Search Trees
 1. https://leetcode.com/problems/validate-binary-search-tree
 2. https://www.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1 TODO
+3. https://www.geeksforgeeks.org/problems/predecessor-and-successor/1 TODO
+4. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal TODO
+5. https://www.geeksforgeeks.org/problems/brothers-from-different-root/1 TODO
+6. https://leetcode.com/problems/balance-a-binary-search-tree TODO
+7. https://www.geeksforgeeks.org/problems/median-of-bst/0 TODO
+8. https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1 TODO
+9. https://leetcode.com/problems/range-sum-of-bst TODO
+10. https://www.geeksforgeeks.org/problems/flatten-bst-to-sorted-list--111950/1 TODO
+11. https://www.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1 TODO
+12. https://www.interviewbit.com/problems/valid-bst-from-preorder TODO
+13. https://www.geeksforgeeks.org/problems/merge-two-bst-s/1 TODO
 
 
 
