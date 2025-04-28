@@ -4,7 +4,6 @@ Engage in coding workouts with this repository, featuring a variety of Data Stru
 Java.
 
 ## Arrays
-
 1. https://leetcode.com/problems/add-to-array-form-of-integer
 2. https://www.geeksforgeeks.org/add-two-numbers-represented-by-two-arrays
 3. https://www.geeksforgeeks.org/reverse-an-array-in-java
@@ -25,7 +24,6 @@ Java.
 18. https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space TODO
 
 ## Searching
-
 1. https://leetcode.com/problems/binary-search
 2. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 3. https://leetcode.com/problems/peak-index-in-a-mountain-array
@@ -37,13 +35,11 @@ Java.
 9. https://www.geeksforgeeks.org/search-almost-sorted-array
 
 ## Sorting
-
 1. https://www.geeksforgeeks.org/problems/bubble-sort/1
 2. https://www.geeksforgeeks.org/problems/selection-sort/1
 3. https://www.geeksforgeeks.org/problems/insertion-sort/1
 
 ## Char & String
-
 1. https://leetcode.com/problems/valid-palindrome
 2. https://leetcode.com/problems/valid-palindrome-ii
 3. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
@@ -57,7 +53,6 @@ Java.
 11. https://leetcode.com/problems/find-and-replace-pattern
 
 ## Basic Maths
-
 1. https://leetcode.com/problems/count-primes
 2. https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 3. https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1
@@ -65,13 +60,11 @@ Java.
 5. https://www.geeksforgeeks.org/problems/product-of-primes5328/1
 
 ## Recursion
-
 1. https://www.geeksforgeeks.org/print-subsequences-string
 2. https://leetcode.com/problems/house-robber
 3. https://leetcode.com/problems/coin-change
 
 ## Linked List
-
 1. https://leetcode.com/problems/reverse-linked-list
 2. https://leetcode.com/problems/middle-of-the-linked-list
 3. https://leetcode.com/problems/palindrome-linked-list
@@ -133,14 +126,12 @@ Java.
 ### Searching
 
 ### Char & String
-
 1. https://leetcode.com/problems/valid-anagram
 2. https://leetcode.com/problems/reverse-only-letters
 3. https://leetcode.com/problems/longest-common-prefix
 4. https://leetcode.com/problems/reverse-vowels-of-a-string
 
 ### Recursion
-
 1. https://www.geeksforgeeks.org/problems/last-index-of-a-character-in-the-string4516/1
 2. https://www.geeksforgeeks.org/problems/reverse-a-string/1
 3. https://leetcode.com/problems/add-strings TODO
@@ -152,7 +143,6 @@ Java.
 9. https://leetcode.com/problems/remove-all-occurrences-of-a-substring TODO
 
 ### Linked List
-
 1. https://leetcode.com/problems/rotate-list TODO
 2. https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1 TODO
 3. https://leetcode.com/problems/merge-two-sorted-lists
@@ -162,14 +152,42 @@ Java.
 7. https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1 TODO
 8. https://leetcode.com/problems/odd-even-linked-list
 9. https://leetcode.com/problems/swapping-nodes-in-a-linked-list
+10. https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1 TODO
+11. https://leetcode.com/problems/copy-list-with-random-pointe TODO
+12. https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points TODO
+13. https://leetcode.com/problems/merge-nodes-in-between-zeros TODO
+14. https://leetcode.com/problems/double-a-number-represented-as-a-linked-list TODO
 
 ### Stacks
+1. https://www.geeksforgeeks.org/problems/count-the-reversals0401/1 TODO
+2. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string TODO - using stack
+3. https://www.geeksforgeeks.org/problems/the-celebrity-problem/1 TODO
+4. https://leetcode.com/problems/next-greater-node-in-linked-list TODO
+5. https://leetcode.com/problems/build-an-array-with-stack-operation TODO (N-stacks in an array)
+6. https://leetcode.com/problems/online-stock-span TODO
+7. https://leetcode.com/problems/check-if-word-is-valid-after-substitutions TODO
+8. https://leetcode.com/problems/decode-string TODO
+9. https://leetcode.com/problems/car-fleet TODO
+10. https://leetcode.com/problems/car-fleet-ii TODO
+11. https://leetcode.com/problems/simplify-path TODO
+12. https://leetcode.com/problems/maximal-rectangle TODO
+13. https://leetcode.com/problems/daily-temperatures TODO
+14. https://leetcode.com/problems/remove-k-digits TODO
+15. https://leetcode.com/problems/minimum-add-to-make-parentheses-valid TODO
+16. https://leetcode.com/problems/longest-valid-parentheses TODO
+17. https://leetcode.com/problems/asteroid-collision TODO
+18. https://leetcode.com/problems/design-browser-history TODO
 
 ### Queue
 1. https://leetcode.com/problems/implement-queue-using-stacks TODO
 2. https://leetcode.com/problems/implement-stack-using-queues TODO
 3. https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 TODO
 4. https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 TODO
+5. https://leetcode.com/problems/number-of-recent-calls TODO
+6. https://leetcode.com/problems/number-of-people-aware-of-a-secret TODO
+7. https://leetcode.com/problems/find-the-winner-of-the-circular-game TODO
+8. https://leetcode.com/problems/reveal-cards-in-increasing-order TODO
+9. https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array TODO
 
 ### Binary Trees
 1. https://leetcode.com/problems/binary-tree-right-side-view
