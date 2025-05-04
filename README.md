@@ -146,14 +146,14 @@ Java.
 1. https://leetcode.com/problems/rotate-list TODO
 2. https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1 TODO
 3. https://leetcode.com/problems/merge-two-sorted-lists
-4. https://leetcode.com/problems/intersection-of-two-linked-lists TODO
+4. https://leetcode.com/problems/intersection-of-two-linked-lists
 5. https://leetcode.com/problems/sort-list TODO
 6. https://www.geeksforgeeks.org/problems/sort-a-linked-list/1 TODO
 7. https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1 TODO
 8. https://leetcode.com/problems/odd-even-linked-list
 9. https://leetcode.com/problems/swapping-nodes-in-a-linked-list
 10. https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1 TODO
-11. https://leetcode.com/problems/copy-list-with-random-pointe TODO
+11. https://leetcode.com/problems/copy-list-with-random-pointer TODO
 12. https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points TODO
 13. https://leetcode.com/problems/merge-nodes-in-between-zeros TODO
 14. https://leetcode.com/problems/double-a-number-represented-as-a-linked-list TODO
