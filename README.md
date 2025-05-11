@@ -119,6 +119,17 @@ Java.
 10. https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
 11. https://leetcode.com/problems/maximum-sum-bst-in-binary-tree
 
+## Heap
+1. https://www.geeksforgeeks.org/problems/heap-sort/1
+2. https://leetcode.com/problems/kth-largest-element-in-an-array
+3. https://leetcode.com/problems/check-completeness-of-a-binary-tree
+4. https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1
+5. https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+6. https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1
+7. https://leetcode.com/problems/merge-k-sorted-lists
+8. https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists TODO
+9. https://leetcode.com/problems/find-median-from-data-stream TODO
+
 ## Assignments
 
 ### Arrays
@@ -221,6 +232,9 @@ Java.
 11. https://www.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1 TODO
 12. https://www.interviewbit.com/problems/valid-bst-from-preorder TODO
 13. https://www.geeksforgeeks.org/problems/merge-two-bst-s/1 TODO
+
+### Heap
+1. https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
 
 
 
