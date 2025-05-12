@@ -26,7 +26,8 @@ public class SmallestRangeCoveringElementsFromKLists_632 {
             Info front = minHeap.poll();
             minValue = front.value;
 
-            if ((maxValue - minValue) < (endValue - startValue)) {
+            if (((maxValue - minValue) < (endValue - startValue)) ||
+                    ((maxValue - minValue) == (endValue - startValue) && minValue < startValue)) {
                 endValue = maxValue;
                 startValue = minValue;
             }
