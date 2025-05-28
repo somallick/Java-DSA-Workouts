@@ -5,6 +5,7 @@ import java.util.Arrays;
 // https://leetcode.com/problems/longest-common-prefix
 public class LongestCommonPrefix_14 {
 
+    // TC - O(nlog n)
     public static String longestCommonPrefix(String[] strs) {
         Arrays.sort(strs);
         StringBuilder common = new StringBuilder();

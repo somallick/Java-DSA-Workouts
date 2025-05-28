@@ -130,8 +130,12 @@ Java.
 8. https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
 9. https://leetcode.com/problems/find-median-from-data-stream
 
-## Tries
-1. 
+## Maps & Tries
+1. https://leetcode.com/problems/two-sum
+2. https://leetcode.com/problems/group-anagrams
+3. https://leetcode.com/problems/substring-with-concatenation-of-all-words TODO
+4. https://leetcode.com/problems/implement-trie-prefix-tree
+5. https://leetcode.com/problems/longest-common-prefix
 
 ## Assignments
 
