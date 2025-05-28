@@ -62,6 +62,7 @@ public class TriePractise {
         return true;
     }
 
+    //find the suggested words when a prefix is given
     public static void findWordsFromPrefix(TrieNode root, String prefix) {
         TrieNode temp = root;
         //traverse till the prefix last character
