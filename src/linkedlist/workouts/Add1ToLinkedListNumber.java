@@ -20,14 +20,14 @@ public class Add1ToLinkedListNumber {
         // code here.
         head = reverseLL(head);
         Node temp = head;
-        int carry = 1; // Taking carry as 1 that is the value that need to add up in question
+        int carry = 1; // Taking initial carry as 1 that is the value that need to add up in question
         while (temp != null) {
             int sum = carry + temp.data;
             int digit = sum % 10;
             carry = sum / 10;
             temp.data = digit;
-            // this if case is for last node as if sum has carry
-            // then new node need to create for that value and attack to LL
+            // this is the case for last node as if sum has carry
+            // then new node need to create for that value and attach to LL
             if (temp.next == null && carry != 0) {
                 Node newNode = new Node(carry);
                 temp.next = newNode;
