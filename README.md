@@ -64,6 +64,7 @@ Java.
 2. https://leetcode.com/problems/house-robber
 3. https://leetcode.com/problems/coin-change
 4. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 [Using Recursion]
+5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion]
 
 ## Linked List
 1. https://leetcode.com/problems/reverse-linked-list
