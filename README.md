@@ -1,5 +1,4 @@
 # Java-DSA-Workouts
-
 Engage in coding workouts with this repository, featuring a variety of Data Structures and Algorithms problems solved in
 Java.
 
@@ -63,8 +62,8 @@ Java.
 1. https://www.geeksforgeeks.org/print-subsequences-string
 2. https://leetcode.com/problems/house-robber
 3. https://leetcode.com/problems/coin-change
-4. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 [Using Recursion]
-5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion]
+4. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 [Using Recursion] - [[Code]](src/recursion/workouts/GfgBinarySearchRE.java)
+5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion] - [[Code]](src/recursion/workouts/CheckArraySorted.java)
 
 ## Linked List
 1. https://leetcode.com/problems/reverse-linked-list
