@@ -59,9 +59,9 @@ Java.
 5. https://www.geeksforgeeks.org/problems/product-of-primes5328/1
 
 ## Recursion
-1. https://www.geeksforgeeks.org/print-subsequences-string
-2. https://leetcode.com/problems/house-robber
-3. https://leetcode.com/problems/coin-change
+1. https://www.geeksforgeeks.org/print-subsequences-string [Using Recursion] - [[Code]](src/recursion/workouts/IncludeExcludePattern.java)
+2. https://leetcode.com/problems/house-robber - [[Code]](src/recursion/workouts/HouseRobberRE_198.java)
+3. https://leetcode.com/problems/coin-change - [[Code]](src/recursion/workouts/CoinChangeRE_322.java)
 4. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 [Using Recursion] - [[Code]](src/recursion/workouts/GfgBinarySearchRE.java)
 5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion] - [[Code]](src/recursion/workouts/CheckArraySorted.java)
 

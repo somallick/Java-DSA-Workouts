@@ -23,5 +23,12 @@ public class CheckArraySorted {
         //recursion take core of other value
         return isSortedRE(arr, index + 1, size);
     }
-
 }
+
+/*
+i/p = [2, 3, 4, 5, 6, 7, 8, 10]
+o/p = true
+
+i/p = [2, 3, 4, 5, 0, 6, 7, 8, 10]
+o/p = false
+*/
