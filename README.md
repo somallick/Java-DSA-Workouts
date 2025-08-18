@@ -66,15 +66,15 @@ Java.
 5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion] - [[Code]](src/recursion/workouts/CheckArraySorted.java)
 
 ## Linked List
-1. https://leetcode.com/problems/reverse-linked-list
-2. https://leetcode.com/problems/middle-of-the-linked-list
-3. https://leetcode.com/problems/palindrome-linked-list
-4. https://leetcode.com/problems/linked-list-cycle
-5. https://leetcode.com/problems/remove-duplicates-from-sorted-list
-6. https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
-7. https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0
+1. https://leetcode.com/problems/reverse-linked-list - [[Code]](src/linkedlist/workouts/ReverseLinkedList_206.java)
+2. https://leetcode.com/problems/middle-of-the-linked-list - [[Code]](src/linkedlist/workouts/MiddleOfTheLinkedList_876.java)
+3. https://leetcode.com/problems/palindrome-linked-list - [[Code]](src/linkedlist/workouts/PalindromeLinkedList_234.java)
+4. https://leetcode.com/problems/linked-list-cycle - [[Code]](src/linkedlist/workouts/LinkedListCycle_141.java)
+5. https://leetcode.com/problems/remove-duplicates-from-sorted-list - [[Code]](src/linkedlist/workouts/RemoveDuplicatesFromSortedList_83.java)
+6. https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1 - [[Code]](src/linkedlist/workouts/SortLinkedList0s1s2s.java)
+7. https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0 - [[Code]](src/linkedlist/workouts/Add1ToLinkedListNumber.java)
 8. https://leetcode.com/problems/linked-list-cycle-ii TODO
-9. https://leetcode.com/problems/reverse-nodes-in-k-group
+9. https://leetcode.com/problems/reverse-nodes-in-k-group - [[Code]](src/linkedlist/workouts/ReverseNodesInKGroup_25.java)
 
 ## Stacks
 1. https://leetcode.com/problems/valid-parentheses
