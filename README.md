@@ -60,8 +60,8 @@ Java.
 
 ## Recursion
 1. https://www.geeksforgeeks.org/print-subsequences-string [Using Recursion] - [[Code]](src/recursion/workouts/IncludeExcludePattern.java)
-2. https://leetcode.com/problems/house-robber - [[Code]](src/recursion/workouts/HouseRobberRE_198.java)
-3. https://leetcode.com/problems/coin-change - [[Code]](src/recursion/workouts/CoinChangeRE_322.java)
+2. https://leetcode.com/problems/house-robber [TLE - Using Recursion] - [[Code]](src/recursion/workouts/HouseRobberRE_198.java)
+3. https://leetcode.com/problems/coin-change [TLE - Using Recursion] - [[Code]](src/recursion/workouts/CoinChangeRE_322.java)
 4. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 [Using Recursion] - [[Code]](src/recursion/workouts/GfgBinarySearchRE.java)
 5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion] - [[Code]](src/recursion/workouts/CheckArraySorted.java)
 
@@ -77,20 +77,20 @@ Java.
 9. https://leetcode.com/problems/reverse-nodes-in-k-group - [[Code]](src/linkedlist/workouts/ReverseNodesInKGroup_25.java)
 
 ## Stacks
-1. https://leetcode.com/problems/valid-parentheses
-2. https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1
-3. https://www.geeksforgeeks.org/next-smaller-element
-4. https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1
+1. https://leetcode.com/problems/valid-parentheses - [[Code]](src/stack/workouts/ValidParentheses_20.java)
+2. https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1 - [[Code]](src/stack/workouts/CheckRedundantBracket.java)
+3. https://www.geeksforgeeks.org/next-smaller-element - [[Code]](src/stack/workouts/NextSmallerElement.java)
+4. https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1 - [[Code]](src/stack/workouts/PrevSmallerElement.java)
 5. https://leetcode.com/problems/largest-rectangle-in-histogram TODO
 6. https://leetcode.com/problems/min-stack TODO
 
 ## Queue
-1. https://www.naukri.com/code360/problems/reverse-first-k-elements-of-queue_982771
-2. https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1
-3. https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
-4. https://leetcode.com/problems/sliding-window-maximum
-5. https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
-6. https://leetcode.com/problems/gas-station
+1. https://www.naukri.com/code360/problems/reverse-first-k-elements-of-queue_982771 - [[Code]](src/queue/workouts/ReverseFirstKElementsOfQueue.java)
+2. https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1 - [[Code]](src/queue/workouts/InterleaveFirstHalfQueueWithSecondHalf.java)
+3. https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1 - [[Code]](src/queue/workouts/FirstNegativeInEveryWindowOfSizeK.java)
+4. https://leetcode.com/problems/sliding-window-maximum - [[Code]](src/queue/workouts/SlidingWindowMaximum_239.java)
+5. https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1 - [[Code]](src/queue/workouts/StreamFirstNonRepeating.java)
+6. https://leetcode.com/problems/gas-station - [[Code]](src/queue/workouts/GasStation_134.java)
 
 ## Binary Trees
 1. https://leetcode.com/problems/binary-tree-level-order-traversal
