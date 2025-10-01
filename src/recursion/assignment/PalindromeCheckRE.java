@@ -1,5 +1,6 @@
 package src.recursion.assignment;
 
+//https://www.geeksforgeeks.org/dsa/recursive-function-check-string-palindrome
 public class PalindromeCheckRE {
     public static boolean check(String str, int start, int end) {
         if (start > end)

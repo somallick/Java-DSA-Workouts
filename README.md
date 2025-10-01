@@ -154,6 +154,8 @@ Java.
 1. https://www.geeksforgeeks.org/problems/last-index-of-a-character-in-the-string4516/1
 2. https://www.geeksforgeeks.org/problems/reverse-a-string/1
 3. https://leetcode.com/problems/add-strings TODO
+4. https://www.geeksforgeeks.org/dsa/recursive-function-check-string-palindrome
+5. https://www.geeksforgeeks.org/problems/generating-all-subarrays/1 [Using Recursion & Iterative] TODO
 4. https://leetcode.com/problems/best-time-to-buy-and-sell-stock TODO
 5. https://leetcode.com/problems/wildcard-matching TODO
 6. https://leetcode.com/problems/perfect-squares TODO
