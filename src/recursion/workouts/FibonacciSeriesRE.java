@@ -5,7 +5,7 @@ import java.util.Arrays;
 //https://www.geeksforgeeks.org/java-fibonacci-series
 public class FibonacciSeriesRE {
 
-    //Fibonacci Series Using Recursive Approach
+    //Fibonacci Series Using Recursive Approach - TC - exponential SC O(n)
     public static int getNthFibonacciNumber(int n) {
         if (n == 0 || n == 1) return n;
         return getNthFibonacciNumber(n - 1) + getNthFibonacciNumber(n - 2);

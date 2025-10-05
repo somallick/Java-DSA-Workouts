@@ -51,6 +51,17 @@ public class RecursivePractise {
             odds.add(ar[index]);
         storeOddInList(ar, index + 1, odds);
     }
+    public static void printDigitFromNumber(int num) {
+
+        if (num == 0)
+            return;
+
+        int newNumber = num / 10;
+        printDigitFromNumber(newNumber);
+
+        int digit = num % 10;
+        System.out.print(digit + " ");
+    }
 
     public static void main(String[] args) {
         int num = 10;

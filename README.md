@@ -1,5 +1,4 @@
 # Java-DSA-Workouts
-
 Engage in coding workouts with this repository, featuring a variety of Data Structures and Algorithms problems solved in
 Java.
 
@@ -60,36 +59,44 @@ Java.
 5. https://www.geeksforgeeks.org/problems/product-of-primes5328/1
 
 ## Recursion
-1. https://www.geeksforgeeks.org/print-subsequences-string
-2. https://leetcode.com/problems/house-robber
-3. https://leetcode.com/problems/coin-change
+1. https://www.geeksforgeeks.org/print-subsequences-string [Using Recursion] - [[Code]](src/recursion/workouts/IncludeExcludePattern.java)
+2. https://leetcode.com/problems/house-robber [TLE - Using Recursion] - [[Code]](src/recursion/workouts/HouseRobberRE_198.java)
+3. https://leetcode.com/problems/coin-change [TLE - Using Recursion] - [[Code]](src/recursion/workouts/CoinChangeRE_322.java)
+4. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 [Using Recursion] - [[Code]](src/recursion/workouts/GfgBinarySearchRE.java)
+5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion] - [[Code]](src/recursion/workouts/CheckArraySorted.java)
+ 
+## Divide & Conquerer
+1. https://leetcode.com/problems/merge-sorted-array - [[Code]](src/dnc/workouts/MergeSortedArray_88.java)
+2. https://www.geeksforgeeks.org/problems/merge-sort/1 - [[Code]](src/dnc/workouts/MergeSort.java)
+3. https://www.geeksforgeeks.org/problems/quick-sort/1 - [[Code]](src/dnc/workouts/QuickSort.java)
+
 
 ## Linked List
-1. https://leetcode.com/problems/reverse-linked-list
-2. https://leetcode.com/problems/middle-of-the-linked-list
-3. https://leetcode.com/problems/palindrome-linked-list
-4. https://leetcode.com/problems/linked-list-cycle
-5. https://leetcode.com/problems/remove-duplicates-from-sorted-list
-6. https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
-7. https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0
+1. https://leetcode.com/problems/reverse-linked-list - [[Code]](src/linkedlist/workouts/ReverseLinkedList_206.java)
+2. https://leetcode.com/problems/middle-of-the-linked-list - [[Code]](src/linkedlist/workouts/MiddleOfTheLinkedList_876.java)
+3. https://leetcode.com/problems/palindrome-linked-list - [[Code]](src/linkedlist/workouts/PalindromeLinkedList_234.java)
+4. https://leetcode.com/problems/linked-list-cycle - [[Code]](src/linkedlist/workouts/LinkedListCycle_141.java)
+5. https://leetcode.com/problems/remove-duplicates-from-sorted-list - [[Code]](src/linkedlist/workouts/RemoveDuplicatesFromSortedList_83.java)
+6. https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1 - [[Code]](src/linkedlist/workouts/SortLinkedList0s1s2s.java)
+7. https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0 - [[Code]](src/linkedlist/workouts/Add1ToLinkedListNumber.java)
 8. https://leetcode.com/problems/linked-list-cycle-ii TODO
-9. https://leetcode.com/problems/reverse-nodes-in-k-group
+9. https://leetcode.com/problems/reverse-nodes-in-k-group - [[Code]](src/linkedlist/workouts/ReverseNodesInKGroup_25.java)
 
 ## Stacks
-1. https://leetcode.com/problems/valid-parentheses
-2. https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1
-3. https://www.geeksforgeeks.org/next-smaller-element
-4. https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1
+1. https://leetcode.com/problems/valid-parentheses - [[Code]](src/stack/workouts/ValidParentheses_20.java)
+2. https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1 - [[Code]](src/stack/workouts/CheckRedundantBracket.java)
+3. https://www.geeksforgeeks.org/next-smaller-element - [[Code]](src/stack/workouts/NextSmallerElement.java)
+4. https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1 - [[Code]](src/stack/workouts/PrevSmallerElement.java)
 5. https://leetcode.com/problems/largest-rectangle-in-histogram TODO
 6. https://leetcode.com/problems/min-stack TODO
 
 ## Queue
-1. https://www.naukri.com/code360/problems/reverse-first-k-elements-of-queue_982771
-2. https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1
-3. https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
-4. https://leetcode.com/problems/sliding-window-maximum
-5. https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
-6. https://leetcode.com/problems/gas-station
+1. https://www.naukri.com/code360/problems/reverse-first-k-elements-of-queue_982771 - [[Code]](src/queue/workouts/ReverseFirstKElementsOfQueue.java)
+2. https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1 - [[Code]](src/queue/workouts/InterleaveFirstHalfQueueWithSecondHalf.java)
+3. https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1 - [[Code]](src/queue/workouts/FirstNegativeInEveryWindowOfSizeK.java)
+4. https://leetcode.com/problems/sliding-window-maximum - [[Code]](src/queue/workouts/SlidingWindowMaximum_239.java)
+5. https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1 - [[Code]](src/queue/workouts/StreamFirstNonRepeating.java)
+6. https://leetcode.com/problems/gas-station - [[Code]](src/queue/workouts/GasStation_134.java)
 
 ## Binary Trees
 1. https://leetcode.com/problems/binary-tree-level-order-traversal
@@ -153,6 +160,8 @@ Java.
 1. https://www.geeksforgeeks.org/problems/last-index-of-a-character-in-the-string4516/1
 2. https://www.geeksforgeeks.org/problems/reverse-a-string/1
 3. https://leetcode.com/problems/add-strings TODO
+4. https://www.geeksforgeeks.org/dsa/recursive-function-check-string-palindrome
+5. https://www.geeksforgeeks.org/problems/generating-all-subarrays/1 [Using Recursion & Iterative] TODO
 4. https://leetcode.com/problems/best-time-to-buy-and-sell-stock TODO
 5. https://leetcode.com/problems/wildcard-matching TODO
 6. https://leetcode.com/problems/perfect-squares TODO

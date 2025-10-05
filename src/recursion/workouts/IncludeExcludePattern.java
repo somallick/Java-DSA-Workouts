@@ -5,11 +5,14 @@ import src.utility.PrintCollection;
 import java.util.ArrayList;
 import java.util.List;
 
+//https://www.geeksforgeeks.org/print-subsequences-string
+//https://www.geeksforgeeks.org/problems/power-set4302/1
 public class IncludeExcludePattern {
+    //TC - O(n2^n) SC - O(n)
     public static void allSubsequence(String str, int index, String output) {
         // base case
         if (index == str.length()) {
-            System.out.println(output);
+            System.out.print(output + " ");
             return;
         }
         char ch = str.charAt(index);
@@ -23,7 +26,7 @@ public class IncludeExcludePattern {
     public static void allSubsequence(String str, int index, StringBuilder output) {
         // base case
         if (index == str.length()) {
-            System.out.println(output);
+            System.out.print(output + " ");
             return;
         }
         char ch = str.charAt(index);
@@ -51,7 +54,9 @@ public class IncludeExcludePattern {
     public static void main(String[] args) {
         String str = "abc";
         allSubsequence(str, 0, "");
+        System.out.println();
         allSubsequence(str, 0, new StringBuilder());
+        System.out.println();
         List<String> list = new ArrayList<>();
         allSubsequence(str, 0, "", list);
         PrintCollection.printList(list);
