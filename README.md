@@ -64,6 +64,12 @@ Java.
 3. https://leetcode.com/problems/coin-change [TLE - Using Recursion] - [[Code]](src/recursion/workouts/CoinChangeRE_322.java)
 4. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 [Using Recursion] - [[Code]](src/recursion/workouts/GfgBinarySearchRE.java)
 5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion] - [[Code]](src/recursion/workouts/CheckArraySorted.java)
+ 
+## Divide & Conquerer
+1. https://leetcode.com/problems/merge-sorted-array
+2. https://www.geeksforgeeks.org/problems/merge-sort/1
+3. https://www.geeksforgeeks.org/problems/quick-sort/1
+
 
 ## Linked List
 1. https://leetcode.com/problems/reverse-linked-list - [[Code]](src/linkedlist/workouts/ReverseLinkedList_206.java)
