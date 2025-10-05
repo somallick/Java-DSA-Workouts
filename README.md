@@ -66,9 +66,9 @@ Java.
 5. https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive [Using Recursion] - [[Code]](src/recursion/workouts/CheckArraySorted.java)
  
 ## Divide & Conquerer
-1. https://leetcode.com/problems/merge-sorted-array
-2. https://www.geeksforgeeks.org/problems/merge-sort/1
-3. https://www.geeksforgeeks.org/problems/quick-sort/1
+1. https://leetcode.com/problems/merge-sorted-array - [[Code]](src/dnc/workouts/MergeSortedArray_88.java)
+2. https://www.geeksforgeeks.org/problems/merge-sort/1 - [[Code]](src/dnc/workouts/MergeSort.java)
+3. https://www.geeksforgeeks.org/problems/quick-sort/1 - [[Code]](src/dnc/workouts/QuickSort.java)
 
 
 ## Linked List
